@@ -67,6 +67,6 @@ def runner
   # code runner here
   welcome
   card_sum = initial_round
-  
+  until 
 end
     
